@@ -61,7 +61,23 @@ h3{
 }
 .computer-img{
     width: 40%;
+    float: left;
+    margin-right: 30px;
 }
 .Puppy-img{
     width: 40%;
+    float: right;
+    margin-left: 30px;
+}
+.books-img{
+    width: 40%;
+    float: left;
+    margin-right: 30px;
+}
+
+.friends-img{
+    width: 40%;
+    float: right;
+    margin-left: 30px;
+
 }
