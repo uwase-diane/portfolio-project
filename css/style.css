@@ -34,14 +34,20 @@ h3{
 
 .bottom-cloud{
     position: absolute;
-    left: 300px;
+    left: 250px;
     bottom: 400px;
     
+}
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
 }
 .top-cloud{
     position: absolute;
     right: 350px;
-    top: 50px;
+    top: 40px;
 }
 .middle-container{
     text-align: center;
@@ -49,9 +55,13 @@ h3{
 }
 .profile-text{
     width: 30%;
+    margin: auto;
 }
 .bottom-container{
     text-align: center;
+}
+p{
+    line-height: 2;
 }
 .skill{
     width: 50%;
