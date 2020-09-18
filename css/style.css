@@ -64,7 +64,12 @@ hr{
 p{
     line-height: 2;
     font-family: 'Montserrat', sans-serif;
+    color: rgb(97, 94, 94);
 
+}
+li{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(97, 94, 94);
 }
 .skill{
     width: 50%;
@@ -121,6 +126,9 @@ p{
     text-decoration: none;
     font-family: 'Montserrat', sans-serif ;
 }
+.btn:hover{
+    color: aquamarine;
+}
 .link{
     text-decoration: none;
     color:#11cdd4;
@@ -142,4 +150,12 @@ p{
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
 
+}
+.footer-link:hover{
+    color: #DCE9EB;
+}
+.copyright{
+    color: #EAF6F6;
+    font-size: 0,75rem;
+    padding: 20px 0;
 }
