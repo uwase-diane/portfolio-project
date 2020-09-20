@@ -1,8 +1,8 @@
 
 ![Web development](https://res.cloudinary.com/auca/image/upload/v1600547102/thumbnail_yesugt.png)
 
-### Hi 👋, I'm Uwase Diane
-#### Web development
+### Hi 👋
+
 
 I'm Uwase Diane from Rwanda, software engineering major at Auca and also in a training program called WeCode at Moringa School. I really enjoy learning everyday with my classmates which is a pretty cool experience.
 
@@ -14,6 +14,9 @@ I'm Uwase Diane from Rwanda, software engineering major at Auca and also in a tr
 
      
 - 📫 How to reach me: diane.uwase13@gmail.com 
+## Examples of Work
+* [First project](https://uwase-diane.github.io/Klibrary/)
+* [Second project](https://uwase-diane.github.io/second-Project/)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/uwase-diane)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/uwase-diane-b91738193//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/uwasediane_/?hl=en/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='visualstudiocode' height='40'>](https://pbs.twimg.com/profile_images/1278357302601347072/BGZIBPH9_400x400.jpg)  
