@@ -27,14 +27,14 @@ I'm Uwase Diane from Rwanda, software engineering major at Auca and also in a tr
 
 ![Profile views](https://gpvc.arturio.dev/uwase-diane)  
 
-MIT License
+## License
 
 Copyright (c) 2020 Uwase Diane
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and, to deal
-in the Website without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sub-license, and/or sell
+of this website and, to deal
+using the Website without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, and/or sell
 copies of the Website and to permit persons to whom the Website is
 furnished to do so, subject to the following conditions:
 
