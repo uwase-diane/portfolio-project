@@ -4,7 +4,7 @@
 ### Hi 👋
 
 
-I'm Uwase Diane from Rwanda, software engineering major at Auca and also in a training program called WeCode at Moringa School. I really enjoy learning everyday with my classmates which is a pretty cool experience, [click here](https://uwase-diane.github.io/portfolio-project/) to view my project portfolio.
+I'm Uwase Diane from Rwanda, software engineering major at Auca and also in a training program called WeCode at Moringa School. I really enjoy learning everyday with my classmates which is a pretty cool experience, to view my project portfolio [click here](https://uwase-diane.github.io/portfolio-project/).
 
 ## Skills and Experience
 
