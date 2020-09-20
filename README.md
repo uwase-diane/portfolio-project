@@ -7,9 +7,10 @@
 I'm Uwase Diane from Rwanda, software engineering major at Auca and also in a training program called WeCode at Moringa School. I really enjoy learning everyday with my classmates which is a pretty cool experience.
 
 ## Skills and Experience
-  * :diamond_shape_with_a_dot_inside:Js
-  * :diamond_shape_with_a_dot_inside:HTML
-  * CSS
+
+  * :diamond_shape_with_a_dot_inside: Js
+  * :diamond_shape_with_a_dot_inside: HTML
+  * :diamond_shape_with_a_dot_inside: CSS
 
      
 - 📫 How to reach me: diane.uwase13@gmail.com 
