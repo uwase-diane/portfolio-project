@@ -1,10 +1,16 @@
-### Hi 👋, Uwase Diane
-#### Web development
+
 ![Web development](https://res.cloudinary.com/auca/image/upload/v1600547102/thumbnail_yesugt.png)
+
+### Hi 👋, I'm Uwase Diane
+#### Web development
 
 I'm Uwase Diane from Rwanda, software engineering major at Auca and also in a training program called WeCode at Moringa School. I really enjoy learning everyday with my classmates which is a pretty cool experience.
 
-Skills: -JS / HTML / CSS
+## Skills and Experience
+  * :diamond_shape_with_a_dot_inside:Js
+  * :diamond_shape_with_a_dot_inside:HTML
+  * CSS
+
      
 - 📫 How to reach me: diane.uwase13@gmail.com 
 
