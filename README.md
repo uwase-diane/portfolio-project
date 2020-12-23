@@ -1,5 +1,4 @@
 
-![Web development](https://res.cloudinary.com/auca/image/upload/v1600547102/thumbnail_yesugt.png)
 
 ### Hi 👋
 
