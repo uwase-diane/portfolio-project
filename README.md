@@ -13,14 +13,6 @@ I'm Uwase Diane from Rwanda, software engineering major at Auca and also in a tr
 
      
 - 📫 How to reach me: diane.uwase13@gmail.com 
-## Examples of Work
- * First Project
- 
-[<img src="https://media.giphy.com/media/ZalmCY801xzkVYIRIC/giphy.gif" width="200">](https://uwase-diane.github.io/Klibrary/)
-
-* Second Project
-
-[<img src="https://media.giphy.com/media/eaSy76SiIV1XEn5ONI/giphy.gif" width="200">](https://uwase-diane.github.io/second-Project/)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/uwase-diane)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/uwase-diane-b91738193//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/uwasediane_/?hl=en/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='visualstudiocode' height='40'>](https://pbs.twimg.com/profile_images/1278357302601347072/BGZIBPH9_400x400.jpg)  
