@@ -678,4 +678,13 @@ h3{
         margin: 5px 0px;
     }
 
+    .services-box-container strong{
+        width: 55%;
+        margin: auto;
+    }
+    .services-box-container a{
+        width: 23%;
+      
+    
+    }
 }
